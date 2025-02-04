@@ -51,6 +51,23 @@ import javax.swing.JButton;
 	        data.setValue("Category 2", 27.9);
 	        data.setValue("Category 3", 79.5);
 	        data.setValue("category 4",14.6);
+
+			//create a dataset for bar chart
+			//create a dataset for pie chart
+			//create a dataset for line chart
+			//create a dataset for scatter plot
+			//create a dataset for bubble chart
+			//create a dataset for radar chart
+			//create a dataset for candlestick chart
+			//create a dataset for heat map
+			//create a dataset for treemap
+			//create a dataset for scatter plot
+			//create a dataset for bubble chart
+			//create a dataset for radar chart
+			//create a dataset for candlestick chart
+			//create a dataset for heat map
+			//create a dataset for treemap
+			
 	        
 	        
 	        // create a chart...
